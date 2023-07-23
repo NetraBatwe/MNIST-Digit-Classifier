@@ -8,6 +8,6 @@ This project is focussed at classification of 0-9 handwritten digits using MNIST
    * File : t10k-images.idx3-ubyte
 * The labels of these test images are stored in seperate file
    * File : t10k-labels.idx1-ubyte
-## Model
+
 
      
